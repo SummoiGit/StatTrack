@@ -1,0 +1,11 @@
+api-version: '1.13'
+api: '1.19.2'
+name: StatTrack
+version: '1.0'
+author: Summoi
+main: plugin.stattrack.main.StatTrack
+description: Adds ability to track things on your tools
+
+commands:
+  sopen:
+   description: Opens the plugin gui

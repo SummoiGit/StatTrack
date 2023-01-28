@@ -1,0 +1,8 @@
+#ItemStack Settings For The Blocks Counter
+blocks_counter_displayname: "&3&l⧉ &a&lB&f&ll&a&lo&f&lc&a&lk&f&ls &f&lC&9&lo&9&lu&f&ln&9&lt&f&le&9&lr &3&l⧉"
+blocks_counter_lore: "&6⤿ &aApplied: &e&nPickaxe/Shovel/Axe"
+blocks_counter_message: "&f&l(&d!&f&l) &aApplied &7'&6Blocks Tracker &d☀&7'&a Successfully &f&l(&d!&f&l)"
+#ItemStack Settings For The Souls Counter
+souls_counter_displayname: "&3&l⧉ &c&lS&f&lo&c&lu&f&ll&c&ls &f&lC&9&lo&9&lu&f&ln&9&lt&f&le&9&lr &3&l⧉"
+souls_counter_lore: "&6⤿ &aApplied: &e&nSword/Axe"
+souls_counter_message: "&f&l(&d!&f&l) &aApplied &7'&6Blocks Tracker &d☀&7'&a Successfully &f&l(&d!&f&l)"
